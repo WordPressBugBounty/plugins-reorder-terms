@@ -1,11 +1,11 @@
 === Reorder Terms ===
-Contributors: ronalfy
-Author URI: https://github.com/ronalfy/reorder-terms
+Contributors: webdevmattcrom
+Author URI: https://mattc.link/reorder-terms
 Plugin URL: https://wordpress.org/plugins/reorder-terms/
 Requires at Least: 6.5
-Tested up to: 7.0
+Tested up to: 7.1
 Tags: reorder, reorder terms
-Stable tag: 1.1.1
+Stable tag: trunk
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
